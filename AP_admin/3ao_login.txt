@@ -1,0 +1,2 @@
+{"result":[]}
+{"result":[{"alternative":[{"transcript":"겨울","confidence":0.60982603},{"transcript":"저울"}],"final":true}],"result_index":0}

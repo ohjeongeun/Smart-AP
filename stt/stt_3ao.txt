@@ -1,0 +1,2 @@
+{"result":[]}
+{"result":[{"alternative":[{"transcript":"허용","confidence":0.67327446},{"transcript":"허영"},{"transcript":"허 용"}],"final":true}],"result_index":0}

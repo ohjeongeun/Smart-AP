@@ -1,0 +1,8 @@
+Dec  4 00:57:24 raspberrypi dnsmasq-dhcp[678]: DHCPACK(wlan0) 172.24.1.114 dc:2b:2a:a7:e1:bd gangdasuiiPhone
+Dec  4 00:58:29 raspberrypi dnsmasq-dhcp[678]: DHCPACK(wlan0) 172.24.1.125 78:f7:be:92:91:81 android-5595bf4e4fb3197d
+Dec  4 01:05:22 raspberrypi hostapd: wlan0: STA dc:2b:2a:a7:e1:bd IEEE 802.11: disassociated
+Dec  4 01:07:11 raspberrypi hostapd: wlan0: STA dc:2b:2a:a7:e1:bd IEEE 802.11: disassociated
+Dec  4 01:07:50 raspberrypi hostapd: wlan0: STA dc:2b:2a:a7:e1:bd IEEE 802.11: disassociated
+Dec  4 01:08:13 raspberrypi hostapd: wlan0: STA dc:2b:2a:a7:e1:bd IEEE 802.11: disassociated
+Dec  4 01:08:33 raspberrypi hostapd: wlan0: STA dc:2b:2a:a7:e1:bd IEEE 802.11: disassociated
+Dec  4 01:09:14 raspberrypi hostapd: wlan0: STA dc:2b:2a:a7:e1:bd IEEE 802.11: disassociated

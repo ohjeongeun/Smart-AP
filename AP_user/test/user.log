@@ -1,0 +1,4 @@
+Oct 30 17:39:20 raspberrypi dnsmasq-dhcp[679]: DHCPACK(wlan0) 172.24.1.117 78:4f:43:88:f7:62 huiui-MBP
+Oct 30 17:40:37 raspberrypi hostapd: wlan0: STA 78:4f:43:88:f7:62 IEEE 802.11: disassociated
+Oct 30 17:44:20 raspberrypi dnsmasq-dhcp[679]: DHCPACK(wlan0) 172.24.1.117 78:4f:43:88:f7:62 huiui-MBP
+Oct 30 17:45:20 raspberrypi dnsmasq-dhcp[679]: DHCPACK(wlan0) 172.24.1.117 test:4f:43:88:f7:63 Ptest

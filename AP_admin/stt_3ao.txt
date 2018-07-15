@@ -1,0 +1,2 @@
+{"result":[]}
+{"result":[{"alternative":[{"transcript":"마이 왜 차단","confidence":0.42837548},{"transcript":"나이 왜 차단"},{"transcript":"마이 웹 차단"},{"transcript":"마이 왜 4반"},{"transcript":"마이 웹 4반"}],"final":true}],"result_index":0}
