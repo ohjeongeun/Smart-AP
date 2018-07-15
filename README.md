@@ -1,5 +1,5 @@
 # Smart-AP
-Capstone Design Project
+Capstone Design 1 Project
 
 ![slide1](./img/slide1.PNG)
 ![slide2](./img/slide2.PNG)
